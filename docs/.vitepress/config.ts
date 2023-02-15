@@ -3,6 +3,7 @@ import { getLectures } from "../../utils"
 export default {
   title: "Архитектура ИС",
   cleanUrls: true,
+  base: "https://iskander-faggod.github.io/AIS-6-SEM/",
   themeConfig: {
     nav: [
       { text: 'Все лекции', link: '/lectures/' },
